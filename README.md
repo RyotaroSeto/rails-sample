@@ -1,5 +1,7 @@
 # README
 
+https://railsguides.jp/active_record_basics.html
+
 ## 実行
 - docker compose up
 - docker compose exec web bash
